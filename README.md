@@ -112,11 +112,38 @@ The variometer mode is highly customizable:
 
 This flexibility allows pilots to tailor the variometer's responsiveness to their specific flying needs and preferences.
 
-## Receiver
-![RCFA_RX](https://github.com/user-attachments/assets/d5b933c2-fd32-4f24-8eff-beaaea0ff7ff)
+## RC Flight Assist (RCFA) Kit Components
 
-## Transmitter
-![RCFA_TX](https://github.com/user-attachments/assets/2efa2826-e206-46d4-8a16-0e7089b3a6cc)
+#### 1. Transmitter
+- **Description**: The transmitter module of the RCFA system is responsible for sending the aircraft's position data to the receiver. It gathers data from the GPS and altimeter sensors, then transmits this information using a specified radio frequency.
+- **Key Features**:
+  - Frequency-hopping spread spectrum (FHSS) support
+  - Compatible with multiple GPS modules
+  - Configurable transmission power
+ 
+![RCFA_TX](https://github.com/user-attachments/assets/c547b435-4d47-4d5a-bd1a-e311b28e3c89)
 
-## Kit
-![IMG_20160701_214035_HDR](https://github.com/user-attachments/assets/719ba96b-8cad-41c0-9516-e0149fd7bca6)
+#### 2. Receiver
+- **Description**: The receiver module receives position data from the transmitter and converts it into audible signals for the pilot. It helps in maintaining the aircraft within the designated flight area by providing real-time feedback.
+- **Key Features**:
+  - Headphone jack for audio feedback
+  - Real-time tracking capability
+  - Configurable sound patterns for various flight conditions
+ 
+![RCFA_RX](https://github.com/user-attachments/assets/90ce810f-3a0c-47ba-8963-25036422120e)
+
+#### 3. GPS
+- **Description**: The GPS module provides the necessary positional data for the RCFA system. It can determine the 2D or 3D position of the aircraft and relay this information to the transmitter.
+- **Key Features**:
+  - High compatibility (Global Top MT3318, MT3329, MT3339, u-Blox M7, M8 series)
+  - Supports logging of satellite data
+  - Provides accurate altitude data with the option to use a barometer for enhanced accuracy
+
+#### 4. UART USB
+- **Description**: The UART USB interface is used for configuring the RCFA system and for data logging purposes. It allows for easy communication between the RCFA modules and a PC for setup and data transfer.
+- **Key Features**:
+  - Enables configuration of system parameters via `rcfa.ini`
+  - Facilitates firmware updates and debugging
+  - Supports real-time data visualization on a PC using compatible software like Google Earth
+
+![IMG_20160701_214035_HDR](https://github.com/user-attachments/assets/f9a94a0f-95f7-4a7b-a8b0-4d6b715f7624)
