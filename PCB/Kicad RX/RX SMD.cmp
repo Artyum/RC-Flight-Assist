@@ -1,0 +1,243 @@
+Cmp-Mod V01 Genere par PcbNew le 2015-07-02 12:51:57
+
+BeginCmp
+TimeStamp = 55891FA0
+Path = /558D778D
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 55891FD0
+Path = /558663BC
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 55891FD6
+Path = /5583F92D
+Reference = P1;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = 55891FDC
+Path = /55846733
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 55891FE8
+Path = /5584392C
+Reference = R3;
+ValeurCmp = 240;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 55891FF4
+Path = /558ADC2F
+Reference = R5;
+ValeurCmp = 47;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 55891FFA
+Path = /558AD816
+Reference = R6;
+ValeurCmp = 15;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5589200E
+Path = /55951168
+Reference = RFM1;
+ValeurCmp = RFM69HW_SMD;
+IdModule  = Footprints:RFM69HW_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5589B5D1
+Path = /558435D5
+Reference = R2;
+ValeurCmp = 390;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 558AF414
+Path = /558F3B49
+Reference = IC1;
+ValeurCmp = ATMEGA168PA-A;
+IdModule  = Housings_QFP:TQFP-32_7x7mm_Pitch0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 558D0A5B
+Path = /558BB7EB
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 558D0A6D
+Path = /558940B1
+Reference = C7;
+ValeurCmp = 1uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 558D0A73
+Path = /558664B1
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 558D0A7F
+Path = /5588506E
+Reference = SW1;
+ValeurCmp = SPST;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = 558D0A80
+Path = /558A551F
+Reference = U1;
+ValeurCmp = LM317AEMP;
+IdModule  = SMD_Packages:SOT-223;
+EndCmp
+
+BeginCmp
+TimeStamp = 558D144C
+Path = /558EC13F
+Reference = C3;
+ValeurCmp = 22pF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 558D1452
+Path = /558A2396
+Reference = C8;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 558D15E9
+Path = /558EC293
+Reference = C4;
+ValeurCmp = 22pF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 558D15F3
+Path = /558EA38A
+Reference = Y1;
+ValeurCmp = 8MHz;
+IdModule  = Crystals:Crystal_HC49-U_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 558EB107
+Path = /55911810
+Reference = C5;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 558EB10C
+Path = /5591188C
+Reference = C6;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 558EB12B
+Path = /558F6E94
+Reference = SW2;
+ValeurCmp = SPST;
+IdModule  = Buttons_Switches_ThroughHole:SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = 558EB25B
+Path = /55914958
+Reference = C11;
+ValeurCmp = 100uF;
+IdModule  = Capacitors_SMD:c_elec_8x10;
+EndCmp
+
+BeginCmp
+TimeStamp = 558EB25C
+Path = /558FF590
+Reference = Q1;
+ValeurCmp = IRF540N;
+IdModule  = SMD_Packages:DPAK-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 558EE1B4
+Path = /55895528
+Reference = P3;
+ValeurCmp = CONN_01X03;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = 558EE441
+Path = /558A8CA1
+Reference = P2;
+ValeurCmp = CONN_01X03;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = 558EF990
+Path = /55931FC2
+Reference = P4;
+ValeurCmp = CONN_01X01;
+IdModule  = Footprints:1Pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 55910BA0
+Path = /55895D09
+Reference = SP1;
+ValeurCmp = SPEAKER;
+IdModule  = Buzzers_Beepers:Buzzer_12x9.5RM7.6;
+EndCmp
+
+BeginCmp
+TimeStamp = 55950781
+Path = /55952C89
+Reference = U3;
+ValeurCmp = JC-128;
+IdModule  = Footprints:JC-128;
+EndCmp
+
+BeginCmp
+TimeStamp = 559508B1
+Path = /55951E4D
+Reference = U2;
+ValeurCmp = 74LVC2;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23-6;
+EndCmp
+
+EndListe
