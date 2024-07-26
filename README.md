@@ -1,6 +1,6 @@
 # RC Flight Assist (RCFA) Telemetry System
 
-I present to you a one-of-a-kind telemetry system for RC pilots. The RC Flight Assist (RCFA) is designed specifically for outdoor pattern flying, such as F3A or F3M classes. The system allows better control over the airplane during acrobatics, implementing a radio telemetry mechanism that indicates the position inside the flight area with high accuracy. With RCFA, pilots can maintain the proper position in the sky, resulting in better handling and improved skills. The system was tested in collaboration with the best Polish F3A pilot of 2015.
+RCFA is a telemetry system for RC pilots, designed specifically for outdoor pattern flying, such as F3A or F3M classes. The system provides better control over the airplane during acrobatics by implementing a radio telemetry mechanism that accurately indicates the position within the flight area. With RCFA, pilots can maintain the proper position in the sky, resulting in better handling and improved skills. The system was tested in collaboration with the top Polish F3A pilot of 2015.
 
 #### How Does It Work?
 
